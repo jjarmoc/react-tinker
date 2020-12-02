@@ -3,7 +3,7 @@ name: NPM Build && Deploy to GHP
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
